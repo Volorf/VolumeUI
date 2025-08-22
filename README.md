@@ -1,4 +1,13 @@
 # VolumeUI
-=== WORK IN PROGRESS ===
-=== COMING SOON ===
-A 3D UI framework for Unity for creating beautiful interfaces in XR.
+A 3D UI library for Unity for creating beautiful interfaces in XR.
+
+Currently, work in progress. Comming soon.
+
+- [x] Backplate
+- [x] Button
+- [x] Toggle
+- [x] Toggle Group
+- [ ] Stepper
+- [ ] Slider
+
+
